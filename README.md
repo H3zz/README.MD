@@ -35,7 +35,7 @@ sempre estudando.
 ---
 <p align = "center">
   <a href="https://github.com/itsLu4n"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3zz&layout=compact&theme=dark"/></a> 
-  <a href="https://github.com/itsLu4n"><img src="https://github-readme-stats.vercel.app/api?username=H3zzn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="itsLu4n"/></a>
+  <a href="https://github.com/itsLu4n"><img src="https://github-readme-stats.vercel.app/api?username=H3zz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Huzz"/></a>
 </p> 
 
 
